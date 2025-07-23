@@ -1,7 +1,17 @@
 # _config.yml
 
 # Disable default GitHub theme to remove the top link/header
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+just_the_docs:
+  logo: "/assets/logo.png"
+  nav:
+    - title: Home
+      url: /
+    - title: Privacy Policy
+      url: /privacy-policy
+    - title: Support
+      url: /support
 
 # Basic site metadata
 title: Pacer Labs
