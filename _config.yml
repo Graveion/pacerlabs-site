@@ -1,0 +1,23 @@
+# _config.yml
+
+# Disable default GitHub theme to remove the top link/header
+theme: minima
+
+# Basic site metadata
+title: Pacer Labs
+description: Tools for smarter running. Creators of the Pacer app.
+
+# Custom domain (used for canonical URLs)
+url: https://www.pacerlabs.fit
+
+# Exclude unnecessary files from build
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+
+# Use GitHub-flavored markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
