@@ -1,7 +1,7 @@
 # _config.yml
 
 # Disable default GitHub theme to remove the top link/header
-theme: minima
+theme: just-the-docs
 
 # Basic site metadata
 title: Pacer Labs
