@@ -4,6 +4,7 @@
 remote_theme: just-the-docs/just-the-docs
 
 just_the_docs:
+  favicon: "/assets/favicon.png"
   logo: "/assets/logo.png"
   nav:
     - title: Home
@@ -12,6 +13,8 @@ just_the_docs:
       url: /privacy-policy
     - title: Support
       url: /support
+	- title: Connecting to a Third Party
+      url: /connect
 
 # Basic site metadata
 title: Pacer Labs
