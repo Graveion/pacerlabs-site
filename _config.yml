@@ -13,7 +13,7 @@ just_the_docs:
       url: /privacy-policy
     - title: Support
       url: /support
-	- title: Connecting to a Third Party
+    - title: Connecting Accounts
       url: /connect
 
 # Basic site metadata
