@@ -3,7 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["2XKY3VHD62.tg.WhatsMyPace"],
+        "appIDs": [
+          "2XKY3VHD62.tg.WhatsMyPace",
+          "HWKSN9MB55.jw.WhatsMyPace"
+        ],
         "components": [
           {
             "/": "/oauth/callback",
@@ -14,6 +17,9 @@
     ]
   },
   "webcredentials": {
-    "apps": ["2XKY3VHD62.tg.WhatsMyPace"]
+    "apps": [
+      "2XKY3VHD62.tg.WhatsMyPace",
+      "HWKSN9MB55.jw.WhatsMyPace"
+    ]
   }
 }
