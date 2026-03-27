@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["2XKY3VHD62.tg.WhatsMyPace"],
+        "components": [
+          {
+            "/": "/oauth/callback",
+            "comment": "OAuth callback for universal link handling"
+          }
+        ]
+      }
+    ]
+  }
+}

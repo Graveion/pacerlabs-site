@@ -25,6 +25,9 @@ description: Tools for smarter running. Creators of the Pacer app.
 url: https://www.pacerlabs.fit
 
 # Exclude unnecessary files from build
+include:
+  - .well-known
+
 exclude:
   - README.md
   - LICENSE
