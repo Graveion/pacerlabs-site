@@ -3,9 +3,10 @@
 # Disable default GitHub theme to remove the top link/header
 remote_theme: just-the-docs/just-the-docs
 
+logo: "/assets/logo.png"
+
 just_the_docs:
   favicon: "/assets/favicon.png"
-  logo: "/assets/logo.png"
   nav:
     - title: Home
       url: /
